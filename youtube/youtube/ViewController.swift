@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  youtube
-//
-//  Created by 洞井僚太 on 2019/02/04.
-//  Copyright © 2019 洞井僚太. All rights reserved.
-//
-
 import UIKit
 import WebKit
 class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource{
